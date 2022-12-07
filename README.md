@@ -1,4 +1,4 @@
-# High-Precision-Chronometer
+# High-Precision-Chronometer with web-page
 
 Chronometer with GPS time base from microseconds up to 99h59m59s999mS999µS
 
