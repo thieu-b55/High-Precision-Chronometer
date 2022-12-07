@@ -1,6 +1,6 @@
 # High-Precision-Chronometer with web-page
 
-Chronometer with GPS time base from microseconds up to 99h59m59s999mS999µS
+Chronometer with GPS time base from microseconds up to 99h59m59s999ms999µs
 
 STM32F411CEU as timer 
 
